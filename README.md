@@ -1,2 +1,0 @@
-# oguland
-beginner dev
